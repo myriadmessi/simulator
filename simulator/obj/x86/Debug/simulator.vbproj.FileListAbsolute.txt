@@ -1,0 +1,14 @@
+C:\Users\LENOVO\documents\visual studio 2010\Projects\simulator\simulator\bin\Debug\simulator.exe
+C:\Users\LENOVO\documents\visual studio 2010\Projects\simulator\simulator\bin\Debug\simulator.pdb
+C:\Users\LENOVO\documents\visual studio 2010\Projects\simulator\simulator\bin\Debug\simulator.xml
+C:\Users\LENOVO\documents\visual studio 2010\Projects\simulator\simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LENOVO\documents\visual studio 2010\Projects\simulator\simulator\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\simulator\simulator\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\simulator\simulator\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\simulator\simulator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LENOVO\documents\visual studio 2010\Projects\simulator\simulator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LENOVO\documents\visual studio 2010\Projects\simulator\simulator\obj\x86\Debug\simulator.exe
+C:\Users\LENOVO\documents\visual studio 2010\Projects\simulator\simulator\obj\x86\Debug\simulator.xml
+C:\Users\LENOVO\documents\visual studio 2010\Projects\simulator\simulator\obj\x86\Debug\simulator.pdb
+C:\Users\LENOVO\documents\visual studio 2010\Projects\simulator\simulator\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\simulator\simulator\obj\x86\Debug\WindowsApplication1.Form4.resources
